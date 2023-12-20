@@ -4,3 +4,32 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* General */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+/* ? Main */
+main {
+    background-color: darkcyan;
+}
+
+section {
+    padding: 80px 0;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: darkorchid;
+}
