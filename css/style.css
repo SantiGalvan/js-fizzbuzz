@@ -56,4 +56,10 @@ section {
     text-align: center;
     line-height: 100px;
     color: #fff;
+
+    cursor: pointer;
+}
+
+.box:hover {
+    scale: 1.2;
 }
