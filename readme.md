@@ -29,3 +29,9 @@ Come abbiamo visto puoi  usare varie tecniche (style , className, classList).
 - 6 Stampo in console la variabile numbers
 
 ### Seconda parte: Lo mostro nel DOM
+- 7 Recupero gli elementi dal DOM
+- 8 Creo il mio elemento
+- 9 Aggiungo una classe ai multipli di 3
+- 10 Aggiungo una classe ai multipli di 5
+- 11 Aggiungo una classe per i multipli di 3 e di 5 e rimuovo le precedenti
+- 12 Stampo nel DOM il mio elemento
