@@ -10,6 +10,26 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+h1 {
+    padding-bottom: 20px;
+    color: #fff;
+    font-size: 4rem;
+}
+
+
+/* Utils */
+.box.cs-bl {
+    background-color: dodgerblue;
+}
+
+.box.cs-ye {
+    background-color: darkkhaki;
+}
+
+.box.cs-re {
+    background-color: orangered;
+}
+
 
 
 
@@ -25,11 +45,15 @@ section {
 .content {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 20px;
 }
 
 .box {
     height: 100px;
     width: 100px;
     background-color: darkorchid;
+
+    text-align: center;
+    line-height: 100px;
+    color: #fff;
 }
