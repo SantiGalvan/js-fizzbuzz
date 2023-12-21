@@ -58,6 +58,7 @@ section {
     color: #fff;
 
     cursor: pointer;
+    border-radius: 20%;
 }
 
 .box:hover {
